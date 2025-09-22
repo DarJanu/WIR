@@ -1,0 +1,4 @@
+baseURL = 'https://todo.todo/'
+languageCode = 'de-at'
+title = 'WIR Archiv'
+theme = 'ananke'
