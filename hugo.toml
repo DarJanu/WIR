@@ -2,3 +2,7 @@ baseURL = 'https://todo.todo/'
 languageCode = 'de-at'
 title = 'WIR Archiv'
 theme = 'ananke'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
