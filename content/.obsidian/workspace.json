@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "cf48340e0c20cf6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "854b82076a9f47c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57bcaa994a5ea4f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/38_Eckhart_Einführung_Fortsetzung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "38_Eckhart_Einführung_Fortsetzung"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4eab2558c79b8af1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f06d7c960a750b84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "beea2a70ede701a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "3ad64f899965167d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "d98a051e85f71334",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aadd78d647411875",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9330333be9bf657",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dce2ce14fd4e6e28",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "posts/38_Eckhart_Einführung_Fortsetzung.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise für 38_Eckhart_Einführung_Fortsetzung"
+            }
+          },
+          {
+            "id": "375548665956f8ec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "posts/38_Eckhart_Einführung_Fortsetzung.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links von 38_Eckhart_Einführung_Fortsetzung öffnen"
+            }
+          },
+          {
+            "id": "bee4c21fe8925266",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a4b53815b756541b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "posts/38_Eckhart_Einführung_Fortsetzung.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung von 38_Eckhart_Einführung_Fortsetzung"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "57bcaa994a5ea4f4",
+  "lastOpenFiles": [
+    "posts/37_Häusle_Einführung.md",
+    "posts/38_Eckhart_Einführung_Fortsetzung.md"
+  ]
+}
